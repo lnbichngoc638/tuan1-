@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">profileApp</string>
+    <string name="btn_back_desc">Quay lại</string>
+    <string name="btn_edit_desc">Chỉnh sửa</string>
+    <string name="avatar_desc">Ảnh đại diện</string>
+    <string name="student_name">Lê Nguyễn Bích Ngọc</string>
+    <string name="student_id">087306003043</string>
+    <string name="_087306003043">087306003043</string>
+    <string name="l_nguy_n_b_ch_ng_c">Lê Nguyễn Bích Ngọc</string>
+    <string name="nh_i_di_n">Ảnh đại diện</string>
+    <string name="ch_nh_s_a">Chỉnh sửa</string>
+    <string name="quay_l_i">Quay lại</string>
+</resources>
